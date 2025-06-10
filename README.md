@@ -8,13 +8,14 @@ A Flutter project demonstrating the use of built-in animation widgets as well as
 - 🎯 Smooth navigation transitions
 - 📱 Responsive design
 
-<h3 align="left">Languages and Tools:</h3>
+## Language and Tools
 <p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>
         &nbsp;
         <img src="https://github.com/user-attachments/assets/81601bc6-d10f-436a-a3fa-fb3b129feaf6" alt="VS Code" width="50" height="45"/>
 </p>
+
 <h3 align="left">Connect with me:</h3> 
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
