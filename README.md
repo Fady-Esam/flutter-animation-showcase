@@ -3,12 +3,29 @@
 A Flutter project demonstrating the use of built-in animation widgets as well as custom animations. Includes practical examples to help understand animation concepts and techniques in Flutter app development.
 
 ## ✨ Features
-- ✅ Built-in Flutter animation widgets (e.g., AnimatedContainer, AnimatedOpacity)
-- 🔁 Custom animations using AnimationController and Tween
-- 🎯 Smooth navigation transitions
-- 📱 Responsive design
+🔄 Implicit Animations:
+Use built-in widgets like AnimatedContainer, AnimatedOpacity, AnimatedCrossFade, and TweenAnimationBuilder to animate property changes smoothly and easily without manual controllers.
 
-## Language and Tools
+🎮 Explicit Animations with AnimationController:
+Fine-grained control over animations using AnimationController, Tween, CurvedAnimation, TweenSequence, AnimatedBuilder, and RotationTransition for advanced and custom animation logic.
+
+🔁 Hero Animations:
+Seamless transitions between screens using the Hero widget and matching tags, creating visually appealing shared element animations.
+
+🧩 Transformations:
+Apply dynamic 2D/3D transformations like rotate, scale, and translate using Transform, Matrix4, and user gestures via GestureDetector.
+
+📋 Animated Lists:
+Animate list item insertions and removals with AnimatedList, insertItem, removeItem, SlideTransition, and SizeTransition.
+
+🖌️ Custom Paint Animations:
+Create custom visuals using CustomPaint and CustomPainter, such as an animated bouncing ball synced with animation values.
+
+🔂 Looping Animations with Status Listeners:
+Implement repeated animations by listening to animation status (completed or dismissed) and triggering forward() or reverse() actions.
+
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>
