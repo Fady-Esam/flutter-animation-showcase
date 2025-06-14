@@ -1,32 +1,18 @@
-# 🚀 Flutter Animation
+# 🚀 Flutter Animation Showcase & Examples & Techniques
 
-A Flutter project demonstrating the use of built-in animation widgets as well as custom animations.  
-Includes practical examples to help understand animation concepts and techniques in Flutter app development.
+A Flutter project demonstrating the use of built-in animation widgets as well as custom animations. Includes practical examples to help understand animation concepts and techniques in Flutter app development.
 
 ---
 
 ## ✨ Features
 
-🔄 **Implicit Animations**  
-Animate changes with widgets like `AnimatedContainer`, `AnimatedOpacity`, `AnimatedCrossFade`, and `TweenAnimationBuilder`.
-
-🎮 **Explicit Animations**  
-Full control using `AnimationController`, `Tween`, `CurvedAnimation`, `TweenSequence`, and `AnimatedBuilder`.
-
-🧳 **Hero Animations**  
-Smooth transitions between screens using shared element animations with the `Hero` widget.
-
-🔁 **Transformations**  
-Apply dynamic rotation, scale, and movement using `Transform`, `Matrix4`, and gesture input.
-
-📋 **Animated Lists**  
-Animate item insertions and removals with `AnimatedList`, `SlideTransition`, and `SizeTransition`.
-
-🎨 **Custom Paint**  
-Draw animated visuals like a bouncing ball using `CustomPaint` and `CustomPainter`.
-
-🔂 **Looping Animations**  
-Use `addStatusListener` to create continuous forward–reverse animation loops.
+- 🔄 Implicit Animations with `AnimatedContainer`, `AnimatedOpacity`, `AnimatedCrossFade`, `TweenAnimationBuilder`
+- 🎮 Explicit Animations using `AnimationController`, `Tween`, `CurvedAnimation`, `TweenSequence`, `AnimatedBuilder`
+- 🧳 Hero Animations for seamless screen transitions using the `Hero` widget
+- 🔁 Transformations with `Transform`, `Matrix4`, and gesture-driven animations (rotate, scale, move)
+- 📋 Animated Lists with `AnimatedList`, `SlideTransition`, `SizeTransition` for dynamic item changes
+- 🎨 Custom Paint visuals using `CustomPaint` and `CustomPainter` (bouncing ball animation)
+- 🔂 Looping Animations using `addStatusListener` for continuous forward–reverse animation cycles
 
 ---
 
