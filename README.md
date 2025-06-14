@@ -4,7 +4,7 @@ A Flutter project demonstrating the use of built-in animation widgets as well as
 
 ---
 
-## ✨ Features
+## 🎯 Key Highlights
 
 - 🔄 Implicit Animations with `AnimatedContainer`, `AnimatedOpacity`, `AnimatedCrossFade`, `TweenAnimationBuilder`
 - 🎮 Explicit Animations using `AnimationController`, `Tween`, `CurvedAnimation`, `TweenSequence`, `AnimatedBuilder`
