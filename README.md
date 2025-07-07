@@ -1,6 +1,6 @@
 # 🚀 Flutter Animation Showcase & Examples & Techniques
 
-A Flutter project demonstrating the use of built-in animation widgets as well as custom animations.  
+A **Flutter** project demonstrating the use of built-in animation widgets as well as custom animations.  
 Includes practical examples to help understand animation concepts and techniques in Flutter app development.
 
 ---
