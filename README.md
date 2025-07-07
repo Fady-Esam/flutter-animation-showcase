@@ -12,7 +12,7 @@ Includes practical examples to help understand animation concepts and techniques
 - 🧳 Hero Animations for seamless screen transitions using the `Hero` widget
 - 🔁 Transformations with `Transform`, `Matrix4`, and gesture-driven animations (rotate, scale, move)
 - 📋 Animated Lists with `AnimatedList`, `SlideTransition`, `SizeTransition` for dynamic item changes
-- 🎨 Custom Paint visuals using `CustomPaint` and `CustomPainter` (bouncing ball animation)
+- 🎨 Custom Paint visuals using `CustomPaint` and `CustomPainter` 
 - 🔂 Looping Animations using `addStatusListener` for continuous forward–reverse animation cycles
 
 ---
